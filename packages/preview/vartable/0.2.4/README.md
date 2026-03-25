@@ -5,14 +5,14 @@ The [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/main/docume
 La [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/main/documentationVF.pdf) ( Version française )
 
 
-```js
+```typ
 #import "@preview/vartable:0.2.4": tabvar
 ```
 # Few examples
 
 ### Trigonometric functions
 Turn this :
-```js
+```typ
 #import "@preview/vartable:0.2.4": tabvar
 
 #tabvar(
@@ -56,7 +56,7 @@ Into this
 
 ### hyperbolic function $f(x) = 1/x $
 
-```js
+```typ
 #import "@preview/vartable:0.2.4": tabvar
 
 #tabvar(
@@ -81,7 +81,7 @@ Into this
 
 ### A random function : $f(x) = \sqrt{x²-4}$ & $f'(x) = \frac {x} {\sqrt{x² - 4}}$
 
-```js
+```typ
 #import "@preview/vartable:0.2.4": tabvar, hatch
 
 #tabvar(
