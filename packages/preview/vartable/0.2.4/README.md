@@ -1,8 +1,8 @@
 # VarTable 
 
 An easy way to render variation table on typst, built on [Cetz](https://github.com/cetz-package/cetz)\
-The [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/main/documentationVE.pdf) ( English version )\
-La [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/main/documentationVF.pdf) ( Version française )
+The [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/1dd5a14a38b1a97611c49b25392c49010d9eeb57/documentationVE.pdf) ( English version )\
+La [documention](https://github.com/Le-foucheur/Typst-VarTable/blob/1dd5a14a38b1a97611c49b25392c49010d9eeb57/documentationVF.pdf) ( Version française )
 
 
 ```typ
